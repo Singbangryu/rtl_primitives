@@ -4,7 +4,7 @@
 
 Implement a one-entry buffer while learning the ready/valid handshake as a protocol invariant rather than as a memorized RTL pattern.
 
-![Ready/Valid buffer block diagram](docs/images/rv_buffer_block.PNG)
+![Ready/Valid buffer block diagram](images/rv_buffer_block.PNG)
 
 The block diagram is intentionally conceptual. Signal names in the drawing are not meant to be the final RTL port naming convention.
 
